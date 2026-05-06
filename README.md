@@ -1,4 +1,4 @@
-# 🧠 LLM Cognition Research（大语言模型认知研究）
+# LLM Cognition Research（大语言模型认知研究）
 
 本仓库整理了自己复现关于**大语言模型（LLM）在认知、心智推理与行为决策方面的研究进展**的代码。
 
