@@ -25,3 +25,11 @@
 - **时间**：2025
 - **简介**：研究了 LLM 代理群体中社会习俗的自发涌现：通过模拟命名游戏等本地互动，LLM 群体能自主形成统一的命名习俗，即使单个代理无明显偏好，群体层面仍会出现显著的集体偏好。此外，文章还探讨了承诺少数派如何通过达到临界规模来推翻现有习俗，揭示了 LLM 多代理系统中规范形成、偏好放大及规范变迁的动态机制。
 - **链接**：https://github.com/yyveggie/LLM-Social-Conventions-and-Collective-Bias
+
+---
+
+## GPT is an effective tool for multilingual psychological text analysis
+- **期刊**：PNAS
+- **时间**：2024
+- **简介**：该研究认为 GPT 这样的大模型其实已经是一个好用且多语言泛化很强的心理文本分析工具，在很多场景里可以替代或超越传统方法。
+- **链接**：https://github.com/yyveggie/LLM-Psychological-Text-Analysis
