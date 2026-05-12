@@ -33,3 +33,11 @@
 - **时间**：2024
 - **简介**：该研究认为 GPT 这样的大模型其实已经是一个好用且多语言泛化很强的心理文本分析工具，在很多场景里可以替代或超越传统方法。
 - **链接**：https://github.com/yyveggie/LLM-Psychological-Text-Analysis
+
+---
+
+## Large language models that replace human participants can harmfully misportray and flatten identity groups
+- **期刊**：Nature Machine Intelligence
+- **时间**：2025
+- **简介**：该研究认为不要用 LLM 来“替代”真实的人类被试，尤其当研究涉及身份与群体差异时，因为模型会系统性地“说错”和“抹平”不同群体的声音，而且这种伤害对边缘群体更严重。
+- **链接**：https://github.com/yyveggie/LLM-Can-Harmfully-Misportray-and-Flatten-Identity-Groups
