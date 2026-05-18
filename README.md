@@ -41,3 +41,11 @@
 - **时间**：2025
 - **简介**：该研究认为不要用 LLM 来“替代”真实的人类被试，尤其当研究涉及身份与群体差异时，因为模型会系统性地“说错”和“抹平”不同群体的声音，而且这种伤害对边缘群体更严重。
 - **链接**：https://github.com/yyveggie/LLM-Can-Harmfully-Misportray-and-Flatten-Identity-Groups
+
+---
+
+## Testing for completions that simulate altruism in early language models
+- **期刊**：Nature Human Behaviour
+- **时间**：2025
+- **简介**：用“独裁者博弈”等经典实验经济学范式，系统测试早期大模型（尤其是 OpenAI 的 text-davinci-003，以及后来的 GPT‑4）在文本补全中是否会“表现得像是利他”。
+- **链接**：https://github.com/yyveggie/LLM-Altruism
