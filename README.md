@@ -7,7 +7,7 @@
 ## A Turing Test of Whether AI Chatbots Are Behaviorally Similar to Humans
 - **期刊**：PNAS
 - **时间**：2024
-- **简介**：提出一种“行为图灵测试”，通过让 ChatGPT 参与经典行为经济学博弈和人格测试，并与大规模人类数据进行比较，检验AI在决策行为上是否与人类相似。结果发现，GPT-4的行为在统计上难以与人类区分，且整体表现出更强的合作性和利他倾向。
+- **简介**：该研究提出一种“行为图灵测试”，通过让 ChatGPT 参与经典行为经济学博弈和人格测试，并与大规模人类数据进行比较，检验AI在决策行为上是否与人类相似。结果发现，GPT-4的行为在统计上难以与人类区分，且整体表现出更强的合作性和利他倾向。
 - **链接**：https://github.com/yyveggie/LLM-Behavioral
 
 ---
@@ -23,7 +23,7 @@
 ## Emergent social conventions and collective bias in LLM populations
 - **期刊**：Science Advances
 - **时间**：2025
-- **简介**：研究了 LLM 代理群体中社会习俗的自发涌现：通过模拟命名游戏等本地互动，LLM 群体能自主形成统一的命名习俗，即使单个代理无明显偏好，群体层面仍会出现显著的集体偏好。此外，文章还探讨了承诺少数派如何通过达到临界规模来推翻现有习俗，揭示了 LLM 多代理系统中规范形成、偏好放大及规范变迁的动态机制。
+- **简介**：该研究探索了 LLM 代理群体中社会习俗的自发涌现：通过模拟命名游戏等本地互动，LLM 群体能自主形成统一的命名习俗，即使单个代理无明显偏好，群体层面仍会出现显著的集体偏好。此外，文章还探讨了承诺少数派如何通过达到临界规模来推翻现有习俗，揭示了 LLM 多代理系统中规范形成、偏好放大及规范变迁的动态机制。
 - **链接**：https://github.com/yyveggie/LLM-Social-Conventions-and-Collective-Bias
 
 ---
@@ -47,5 +47,13 @@
 ## Testing for completions that simulate altruism in early language models
 - **期刊**：Nature Human Behaviour
 - **时间**：2025
-- **简介**：用“独裁者博弈”等经典实验经济学范式，系统测试早期大模型（尤其是 OpenAI 的 text-davinci-003，以及后来的 GPT‑4）在文本补全中是否会“表现得像是利他”。
+- **简介**：该研究用“独裁者博弈”等经典实验经济学范式，系统测试早期大模型（尤其是 OpenAI 的 text-davinci-003，以及后来的 GPT‑4）在文本补全中是否会“表现得像是利他”。
+- **链接**：https://github.com/yyveggie/LLM-Altruism
+
+---
+
+## The emergence of economic rationality of GPT
+- **期刊**：PNAS
+- **时间**：2023
+- **简介**：该研究用经典揭示偏好方法测试 GPT‑3.5 在风险、时间、社会与食物等预算分配任务中的选择，发现其整体经济理性程度高于人类，但对价格表述方式和离散选项框架非常敏感。
 - **链接**：https://github.com/yyveggie/LLM-Altruism
