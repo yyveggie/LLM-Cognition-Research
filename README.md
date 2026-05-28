@@ -56,4 +56,12 @@
 - **期刊**：PNAS
 - **时间**：2023
 - **简介**：该研究用经典揭示偏好方法测试 GPT‑3.5 在风险、时间、社会与食物等预算分配任务中的选择，发现其整体经济理性程度高于人类，但对价格表述方式和离散选项框架非常敏感。
-- **链接**：https://github.com/yyveggie/LLM-Altruism
+- **链接**：https://github.com/yyveggie/LLM-Economic-Rationality
+
+---
+
+## Using cognitive psychology to understand GPT-3
+- **期刊**：PNAS
+- **时间**：2023
+- **简介**：该研究发现 GPT-3 在很多经典认知心理学实验中表现接近甚至优于人类、并展现部分人类式决策偏差和模型化学习迹象，但对提示极不鲁棒、缺乏定向探索与因果推理等关键人类认知特征。
+- **链接**：https://github.com/yyveggie/LLM-Psychological-Testing
