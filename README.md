@@ -1,4 +1,4 @@
-# LLM Cognition Research（大语言模型认知研究）
+# 大语言模型认知研究（LLM Cognition Research）
 
 本仓库整理了自己复现关于**大语言模型（LLM）在认知、心智推理与行为决策方面的研究进展**的代码。
 
@@ -57,6 +57,14 @@
 - **时间**：2023
 - **简介**：该研究用经典揭示偏好方法测试 GPT‑3.5 在风险、时间、社会与食物等预算分配任务中的选择，发现其整体经济理性程度高于人类，但对价格表述方式和离散选项框架非常敏感。
 - **链接**：https://github.com/yyveggie/LLM-Economic-Rationality
+
+---
+
+## Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy
+- **期刊**：Science Advances
+- **时间**：2024
+- **简介**：该研究发现把很多大模型像“人群”一样组合起来，可以达到接近人类群体预测竞赛的准确度。
+- **链接**：https://github.com/yyveggie/LLM-Ensemble-Prediction
 
 ---
 
