@@ -73,3 +73,11 @@
 - **时间**：2023
 - **简介**：该研究发现 GPT-3 在很多经典认知心理学实验中表现接近甚至优于人类、并展现部分人类式决策偏差和模型化学习迹象，但对提示极不鲁棒、缺乏定向探索与因果推理等关键人类认知特征。
 - **链接**：https://github.com/yyveggie/LLM-Psychological-Testing
+
+---
+
+## Testing theory of mind in large language models and humans
+- **期刊**：Nature Human Behaviour
+- **时间**：2024
+- **简介**：该研究发现 GPT‑4 在多数任务上已接近甚至超过人类，但在识别失礼言行（faux pas）时因过度谨慎而表现不佳，而 LLaMA2 的“优势”则更像是简单偏好策略而非真正理解他人心智。
+- **链接**：https://github.com/yyveggie/LLM-Theory-of-Mind
