@@ -81,3 +81,11 @@
 - **时间**：2024
 - **简介**：该研究发现 GPT‑4 在多数任务上已接近甚至超过人类，但在识别失礼言行（faux pas）时因过度谨慎而表现不佳，而 LLaMA2 的“优势”则更像是简单偏好策略而非真正理解他人心智。
 - **链接**：https://github.com/yyveggie/LLM-Theory-of-Mind
+
+---
+
+## Generative Language Models Exhibit Social Identity Biases
+- **期刊**：Nature Computational Science
+- **时间**：2025
+- **简介**：该研究发现 LLM 普遍会在语言上偏好“我们”（ingroup），贬低“他们”（outgroup），这种社会身份偏见与人类网络语料中的模式相似。
+- **链接**：https://github.com/yyveggie/LLM-Social-Identity-Biases
