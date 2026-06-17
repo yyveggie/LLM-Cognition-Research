@@ -96,4 +96,4 @@
 - **期刊**：Nature
 - **时间**：2025
 - **简介**：该研究证明了网络媒体和大模型系统性地把女性“变年轻”、把男性“变年长”，并放大这种偏见。
-- **链接**：https://github.com/yyveggie/LLM-Social-Identity-Biases
+- **链接**：https://github.com/yyveggie/LLM_Age_Gender_Distortion
