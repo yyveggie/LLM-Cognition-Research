@@ -97,3 +97,11 @@
 - **时间**：2025
 - **简介**：该研究证明了网络媒体和大模型系统性地把女性“变年轻”、把男性“变年长”，并放大这种偏见。
 - **链接**：https://github.com/yyveggie/LLM_Age_Gender_Distortion
+
+---
+
+## AI generates covertly racist decisions about people based on their dialect
+- **期刊**：Nature
+- **时间**：2024
+- **简介**：该研究发现 LLM 会对使用非裔美国英语方言的说话人做出系统性、更严厉且隐蔽的种族歧视性判断，即使模型在表面上对非裔美国人表现得“政治正确”。
+- **链接**：https://github.com/yyveggie/LLM_Racist_Decisions
